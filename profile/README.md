@@ -16,6 +16,14 @@ Postcept itself is a hosted product. What's open here is the trust layer and the
 
 [**mcp**](https://github.com/Postcept/mcp) ([`@postcept/mcp`](https://www.npmjs.com/package/@postcept/mcp)): Model Context Protocol server, so an agent can verify its own actions as a tool.
 
+[**relay**](https://github.com/Postcept/relay) ([`@postcept/relay`](https://www.npmjs.com/package/@postcept/relay)): Open-source customer-side relay for local connector credentials and evidence minimization.
+
+[**demo**](https://github.com/Postcept/demo) ([`@postcept/demo`](https://www.npmjs.com/package/@postcept/demo)): Locally runnable CLI demo covering completion gap verification scenarios.
+
+[**gauntlet**](https://github.com/Postcept/gauntlet) ([`@postcept/gauntlet`](https://www.npmjs.com/package/@postcept/gauntlet)): The Completion Gap Gauntlet, a reproducible scoring harness for verification baselines.
+
+[**uptime**](https://github.com/Postcept/uptime): Independent, append-only uptime history.
+
 ### Links
 
 [postcept.com](https://postcept.com) · [Docs](https://postcept.com/docs) · [The receipt standard](https://postcept.com/postcept-receipt) · [Security](https://postcept.com/security)
